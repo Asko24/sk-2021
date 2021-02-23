@@ -13,7 +13,7 @@ Załączony kurs zawiera zawiera referencyjne maszyny wirtualne, do wykorzystani
     * przeglądanie dokumentacji oprogramowania man
     * modyfikowanie zachowań poleceń poprzez argumenty i przełączniki
 
-### Oprogramoowanie
+### Oprogramowanie
 
   * **cisco packet tracer**
   * virtualbox
@@ -23,8 +23,8 @@ Załączony kurs zawiera zawiera referencyjne maszyny wirtualne, do wykorzystani
 ### System operacyjny:
 
  * Alpine Linux
- * CeontOS
- * Debina
+ * CentOS
+ * Debian
  * Windows
 
 ### Zagadnienia
